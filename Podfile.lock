@@ -1,0 +1,21 @@
+PODS:
+  - Masonry (1.0.2)
+  - MLEmojiLabel (1.0.2):
+    - TTTAttributedLabel (~> 1.13.4)
+  - MLLabel (1.10.3)
+  - TTTAttributedLabel (1.13.4)
+
+DEPENDENCIES:
+  - Masonry
+  - MLEmojiLabel
+  - MLLabel
+
+SPEC CHECKSUMS:
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MLEmojiLabel: 36d73c19f9975cbf9def24e5bc135263b0337fd8
+  MLLabel: 3760fb38aeac53b212409b634bc4aa4bf39ab628
+  TTTAttributedLabel: 0a2ac7b2dd726d32a070dafb01446026b11e624f
+
+PODFILE CHECKSUM: 911a73a1bbb277da3cf6803f252be31c5cfb7fa8
+
+COCOAPODS: 1.2.1.beta.1
